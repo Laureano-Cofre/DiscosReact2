@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+  }
+  .boton-carrito {
+
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px 20px;
+    transition: all .3s;
+}
+.boton-carrito:hover {
+    cursor: pointer;
+    color: white;
+    background-color: #0f8de0;
+}
+.boton-carrito:focus {
+    outline: none;
+}
