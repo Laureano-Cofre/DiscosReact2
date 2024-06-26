@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 //Importo componentes
 import NavBar from "./componentes/NavBar/NavBar"
 import ItemListContainer from './componentes/ItemListContainer/ItemListContainer';
-import productosData from './componentes/ItemListContainer/productos.json'; // Asegúrate de que la ruta sea correcta
+import productosData from './componentes/ItemListContainer/productos.json';
 import Hero from "./componentes/Hero/Hero"
 import Footer from './componentes/Footer/Footer';
 
