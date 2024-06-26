@@ -3,7 +3,7 @@
   }
   
   .boton-carrito {
-    background: none;
+    background: white;
     border: none;
     color: white;
     cursor: pointer;
@@ -29,3 +29,6 @@
     right: -10px;
   }
   
+  .bi {
+    color: black;
+  }
